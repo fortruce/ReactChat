@@ -1,0 +1,9 @@
+{
+  "name": "ircclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "split": "^0.3.3"
+  }
+}
